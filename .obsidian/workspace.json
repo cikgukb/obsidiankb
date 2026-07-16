@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "cae8baa31a087704",
+    "type": "split",
+    "children": [
+      {
+        "id": "68237b3868f6c5cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4aa241fa477fbfa3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9a7bd8013137ad8b",
+    "type": "split",
+    "children": [
+      {
+        "id": "bfb262b86cca75cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7825b5158cb64da4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c0d9a86c8ccaca75",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "noir",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9c8750f69efec303",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b45c7e72e10ae050",
+    "type": "split",
+    "children": [
+      {
+        "id": "73f108613feb4cc3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0de3fafa008d9ebd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Topik/📊 INSKEN.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 📊 INSKEN"
+            }
+          },
+          {
+            "id": "a4c5f22d1800b4e5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Topik/📊 INSKEN.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 📊 INSKEN"
+            }
+          },
+          {
+            "id": "579554875c192d22",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "92bd9f2e80d188c6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "09560bfe8d97b1b4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Topik/📊 INSKEN.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 📊 INSKEN"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "4aa241fa477fbfa3",
+  "lastOpenFiles": [
+    "2026-07-16.md",
+    "2026-07-12 - Audit GitHub dan Peluang Tunai.md",
+    "2026-07-12 - Audit BCL dan Produk Pantas.md",
+    "Topik/🎨 Design System Cikgu KB.md",
+    "Topik/🌐 Standard Pembinaan Web.md",
+    "PETA UTAMA.md.tmp.1564.b7e874902641",
+    "Topik/🎨 Design System Cikgu KB.md.tmp.1564.f6264d53633f",
+    "Topik/🌐 Standard Pembinaan Web.md.tmp.1564.17621e3a90b1",
+    "2026-07-13 - Gambaran Sistem Hebahan Misi Tunai.md",
+    "Topik/🏢 KBBC (KB Beyond Creative).md",
+    "Untitled.base",
+    "Misi Tunai Julai 2026.md",
+    "2026-07-03.md",
+    "Codex Memory.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Topik/📽 Kelas & Latihan.md",
+    "Topik/🗑 Sampah Kod.md",
+    "2026-07-13 - Brainstorm Pipeline Hebahan dan Consulting.md",
+    "Topik/🧾 Kewangan.md",
+    "Topik/📣 LEAD & Prospek.md",
+    "Topik/📊 INSKEN.md",
+    "Topik/🗃 Lain-lain.md",
+    "PETA UTAMA.md",
+    "Topik/🎬 Projek Video.md",
+    "Downloads/whatsapp_group_numbers TD1 eMkt.csv.md",
+    "Topik/🛒 e-Dagang.md",
+    "Topik/🖥 Samsung Flip.md",
+    "Topik/💸 Zero Cost Marketing.md",
+    "Topik/📄 Proposal & Usul.md",
+    "Topik/🎖 Sijil & Peserta.md",
+    "Topik/🎓 eUsahawan.md",
+    "Topik"
+  ]
+}
