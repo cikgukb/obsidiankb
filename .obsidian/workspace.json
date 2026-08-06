@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "68237b3868f6c5cb",
+        "id": "7d3c26bdd2ff51b5",
         "type": "tabs",
         "children": [
           {
-            "id": "4aa241fa477fbfa3",
+            "id": "deec52e9568619d2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Audit WhatsApp Groups - 2026-07-16.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Audit WhatsApp Groups - 2026-07-16"
             }
           }
         ]
@@ -180,8 +184,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "4aa241fa477fbfa3",
+  "active": "deec52e9568619d2",
   "lastOpenFiles": [
+    "README.md",
+    "Audit Google Contacts - 2026-07-17.md",
+    "Audit WhatsApp Groups - 2026-07-16.md",
     "PETA UTAMA.md",
     "2026-07-16.md",
     "2026-07-12 - Audit GitHub dan Peluang Tunai.md",
@@ -211,9 +218,6 @@
     "Topik/🛒 e-Dagang.md",
     "Topik/🖥 Samsung Flip.md",
     "Topik/💸 Zero Cost Marketing.md",
-    "Topik/📄 Proposal & Usul.md",
-    "Topik/🎖 Sijil & Peserta.md",
-    "Topik/🎓 eUsahawan.md",
     "Topik"
   ]
 }
